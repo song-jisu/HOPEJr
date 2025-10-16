@@ -50,8 +50,8 @@ BOM for HopeJr/Homunculus
 
 | Size (length x wire diam. x outer diam.) | Quantity | Reference | Details
 |-|-|-|-
-| 10mm x 0.3mm x 3mm | 1 set of 10 | [AliExpress](https://fr.aliexpress.com/item/4000250320601.html?spm=a2g0o.order_detail.order_detail_item.4.107d7d56n91gFK&gatewayAdapt=glo2fra) | 3x thumb, 2x fingers w\ thumb
-| 15mm x 0.3mm x 2mm | 2 sets of 10 | [AliExpress](https://fr.aliexpress.com/item/4000250320601.html?spm=a2g0o.order_detail.order_detail_item.4.107d7d56n91gFK&gatewayAdapt=glo2fra) | 1x fingers w\ thumb
+| 15mm x 0.3mm x 3mm | 1 set of 10 | [AliExpress](https://fr.aliexpress.com/item/4000250320601.html?spm=a2g0o.order_detail.order_detail_item.4.107d7d56n91gFK&gatewayAdapt=glo2fra) | 3x thumb, 2x fingers w\ thumb
+| 20mm x 0.3mm x 3mm | 2 sets of 10 | [AliExpress](https://fr.aliexpress.com/item/4000250320601.html?spm=a2g0o.order_detail.order_detail_item.4.107d7d56n91gFK&gatewayAdapt=glo2fra) | 1x fingers w\ thumb
 
 ### Wire:
 
