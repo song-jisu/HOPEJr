@@ -233,8 +233,8 @@
   <link name="hand_thumb_pip_1_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_thumb_pip_1_support" type="revolute">
@@ -274,8 +274,8 @@
   <link name="hand_thumb_pip_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_thumb_pip_2_support" type="revolute">
@@ -315,8 +315,8 @@
   <link name="hand_thumb_dip_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_thumb_dip_support" type="revolute">
@@ -381,8 +381,8 @@
   <link name="hand_index_mcp_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_index_mcp_2_support" type="revolute">
@@ -422,8 +422,8 @@
   <link name="hand_index_pip_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_index_pip_support" type="revolute">
@@ -463,8 +463,8 @@
   <link name="hand_index_dip_1_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_index_dip_1_support" type="revolute">
@@ -504,8 +504,8 @@
   <link name="hand_index_dip_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_index_dip_2_support" type="revolute">
@@ -571,8 +571,8 @@
   <link name="hand_middle_mcp_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_middle_mcp_2_support" type="revolute">
@@ -612,8 +612,8 @@
   <link name="hand_middle_pip_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_middle_pip_support" type="revolute">
@@ -653,8 +653,8 @@
   <link name="hand_middle_dip_1_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_middle_dip_1_support" type="revolute">
@@ -694,8 +694,8 @@
   <link name="hand_middle_dip_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_middle_dip_2_support" type="revolute">
@@ -761,8 +761,8 @@
   <link name="hand_ring_mcp_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_ring_mcp_2_support" type="revolute">
@@ -802,8 +802,8 @@
   <link name="hand_ring_pip_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_ring_pip_support" type="revolute">
@@ -843,8 +843,8 @@
   <link name="hand_ring_dip_1_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_ring_dip_1_support" type="revolute">
@@ -884,8 +884,8 @@
   <link name="hand_ring_dip_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_ring_dip_2_support" type="revolute">
@@ -951,8 +951,8 @@
   <link name="hand_pinky_mcp_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_pinky_mcp_2_support" type="revolute">
@@ -992,8 +992,8 @@
   <link name="hand_pinky_pip_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_pinky_pip_support" type="revolute">
@@ -1033,8 +1033,8 @@
   <link name="hand_pinky_dip_1_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_pinky_dip_1_support" type="revolute">
@@ -1074,8 +1074,8 @@
   <link name="hand_pinky_dip_2_support">
     <inertial>
       <origin rpy="0 0 0" xyz="0 0 0"/>
-      <mass value="2.0"/>
-      <inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0"/>
+      <mass value="0.0000000000001"/>
+      <inertia ixx="0.00000000000001" ixy="0" ixz="0" iyy="0.00000000000001" iyz="0" izz="0.00000000000001"/>
     </inertial>
   </link>
   <joint name="hand_pinky_dip_2_support" type="revolute">
